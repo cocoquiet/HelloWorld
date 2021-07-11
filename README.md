@@ -18,7 +18,7 @@
 ### PR
 1. 작성한 파일과 함께 출력값을 캡쳐해서 올린다.
 2. 커밋 메세지는 "<깃헙 아이디> : <**정확한** 언어명>" 으로 통일한다. ex) easycastle : C
-3. 하고픈 말이 있다면 (Wanna Say Sth?)[https://github.com/easycastle/HelloWorld#wanna-say-sth]에서 적는다.
+3. 하고픈 말이 있다면 [Wanna Say Sth?](https://github.com/easycastle/HelloWorld#wanna-say-sth)에서 적는다.
 
 ---
 
@@ -42,7 +42,7 @@ Anyone can write code if they keep the guidelines below and send PR!
 ### PR
 1. Capture and upload the output value with the file you wrote.
 2. The commit message is unified into "<Github ID>: <**Exact** Language Name>. ex) easycastle : C
-3. If you want to say something, write it in (Wanna Say Sth?)[https://github.com/easycastle/HelloWorld#wanna-say-sth]
+3. If you want to say something, write it in [Wanna Say Sth?](https://github.com/easycastle/HelloWorld#wanna-say-sth)
 
 ## Wanna Say Sth?
 > 세상에는 미친 개발자들이 너무나도 많았고, 많고, 많아질 것이다. - 이지성 -
